@@ -1,0 +1,364 @@
+{
+  "products": {
+    "Jammu & Kashmir": {
+      "Pashmina shawl": "/images/catalog/jammu-kashmir/pashmina-shawl.png",
+      "Walnut wood decor box": "/images/catalog/jammu-kashmir/walnut-wood-decor-box.jpg",
+      "Kashmiri carpet": "/images/catalog/jammu-kashmir/kashmiri-carpet.jpg"
+    },
+    "Himachal Pradesh": {
+      "Wool shawl": "/images/catalog/himachal-pradesh/wool-shawl.jpg",
+      "Handwoven rug": "/images/catalog/himachal-pradesh/handwoven-rug.jpg"
+    },
+    "Punjab": {
+      "Phulkari dupatta": "/images/catalog/punjab/phulkari-dupatta.jpg",
+      "Punjabi jutti": "/images/catalog/punjab/punjabi-jutti.jpg",
+      "Handcrafted textile bag": "/images/catalog/punjab/handcrafted-textile-bag.jpg"
+    },
+    "Rajasthan": {
+      "Blue pottery vase": "/images/catalog/rajasthan/blue-pottery-vase.jpg",
+      "Bandhani textile": "/images/catalog/rajasthan/bandhani-textile.jpg",
+      "Miniature painting frame": "/images/catalog/rajasthan/miniature-painting-frame.jpg"
+    },
+    "Delhi": {
+      "Zardozi cushion cover": "/images/catalog/delhi/zardozi-cushion-cover.jpg",
+      "Metal wall decor": "/images/catalog/delhi/metal-wall-decor.jpg",
+      "Ceramic mug": "/images/catalog/delhi/ceramic-mug.jpg"
+    },
+    "Haryana": {
+      "Handwoven rug": "/images/catalog/haryana/handwoven-rug.jpg",
+      "Clay pottery": "/images/catalog/haryana/clay-pottery.jpg",
+      "Textile bag": "/images/catalog/haryana/textile-bag.jpg"
+    },
+    "Arunachal Pradesh": {
+      "Bamboo basket": "/images/catalog/arunachal-pradesh/bamboo-basket.jpg",
+      "Tribal shawl": "/images/catalog/arunachal-pradesh/tribal-shawl.jpg",
+      "Wooden mask": "/images/catalog/arunachal-pradesh/wooden-mask.jpg"
+    },
+    "Assam": {
+      "Muga silk fabric": "/images/catalog/assam/muga-silk-fabric.jpg",
+      "Bamboo decor item": "/images/catalog/assam/bamboo-decor-item.jpg",
+      "Handwoven scarf": "/images/catalog/assam/handwoven-scarf.jpg"
+    },
+    "Manipur": {
+      "Handloom textile": "/images/catalog/manipur/handloom-textile.jpg",
+      "Bamboo decor item": "/images/catalog/manipur/bamboo-decor-item.jpg",
+      "Ceramic pot": "/images/catalog/manipur/ceramic-pot.jpg"
+    },
+    "Meghalaya": {
+      "Cane basket": "/images/catalog/meghalaya/cane-basket.jpg",
+      "Wool shawl": "/images/catalog/meghalaya/wool-shawl.jpg",
+      "Wooden decor item": "/images/catalog/meghalaya/wooden-decor-item.jpg"
+    },
+    "Mizoram": {
+      "Bamboo furniture decor": "/images/catalog/mizoram/bamboo-furniture-decor.jpg",
+      "Handwoven textile": "/images/catalog/mizoram/handwoven-textile.jpg",
+      "Tribal wall art": "/images/catalog/mizoram/tribal-wall-art.jpg"
+    },
+    "Nagaland": {
+      "Beaded jewelry": "/images/catalog/nagaland/beaded-jewelry.jpg",
+      "Tribal shawl": "/images/catalog/nagaland/tribal-shawl.jpg",
+      "Wooden sculpture": "/images/catalog/nagaland/wooden-sculpture.jpg"
+    },
+    "Tripura": {
+      "Bamboo craft item": "/images/catalog/tripura/bamboo-craft-item.jpg",
+      "Cane furniture": "/images/catalog/tripura/cane-furniture.jpg",
+      "Woven textile mat": "/images/catalog/tripura/woven-textile-mat.jpg"
+    },
+    "West Bengal": {
+      "Kantha stitched textile": "/images/catalog/west-bengal/kantha-stitched-textile.jpg",
+      "Terracotta idol": "/images/catalog/west-bengal/terracotta-idol.jpg",
+      "Dokra metal figurine": "/images/catalog/west-bengal/dokra-metal-figurine.jpg"
+    },
+    "Odisha": {
+      "Pattachitra scroll": "/images/catalog/odisha/pattachitra-scroll.jpg",
+      "Silver filigree jewelry": "/images/catalog/odisha/silver-filigree-jewelry.jpg",
+      "Applique wall hanging": "/images/catalog/odisha/applique-wall-hanging.jpg"
+    },
+    "Bihar": {
+      "Madhubani painting": "/images/catalog/bihar/madhubani-painting.jpg",
+      "Sikki grass basket": "/images/catalog/bihar/sikki-grass-basket.jpg",
+      "Clay pottery": "/images/catalog/bihar/clay-pottery.jpg"
+    },
+    "Jharkhand": {
+      "Tribal painting": "/images/catalog/jharkhand/tribal-painting.jpg",
+      "Bamboo decor item": "/images/catalog/jharkhand/bamboo-decor-item.jpg",
+      "Wooden mask": "/images/catalog/jharkhand/wooden-mask.jpg"
+    },
+    "Kerala": {
+      "Coconut shell lamp": "/images/catalog/kerala/coconut-shell-lamp.jpg",
+      "Coir mat": "/images/catalog/kerala/coir-mat.jpg",
+      "Kathakali mask": "/images/catalog/kerala/kathakali-mask.jpg"
+    },
+    "Tamil Nadu": {
+      "Tanjore painting": "/images/catalog/tamil-nadu/tanjore-painting.jpg",
+      "Bronze idol": "/images/catalog/tamil-nadu/bronze-idol.jpg",
+      "Silk textile": "/images/catalog/tamil-nadu/silk-textile.jpg"
+    },
+    "Karnataka": {
+      "Sandalwood statue": "/images/catalog/karnataka/sandalwood-statue.jpg",
+      "Mysore silk": "/images/catalog/karnataka/mysore-silk.jpg",
+      "Bidri metal bowl": "/images/catalog/karnataka/bidri-metal-bowl.jpg"
+    },
+    "Andhra Pradesh": {
+      "Kalamkari wall art": "/images/catalog/andhra-pradesh/kalamkari-wall-art.jpg",
+      "Wooden toy": "/images/catalog/andhra-pradesh/wooden-toy.jpg",
+      "Handloom fabric": "/images/catalog/andhra-pradesh/handloom-fabric.jpg"
+    },
+    "Telangana": {
+      "Ikat textile": "/images/catalog/telangana/ikat-textile.png",
+      "Cheriyal scroll": "/images/catalog/telangana/cheriyal-scroll.jpg",
+      "Handwoven fabric": "/images/catalog/telangana/handwoven-fabric.jpg"
+    },
+    "Madhya Pradesh": {
+      "Gond painting": "/images/catalog/madhya-pradesh/gond-painting.jpg",
+      "Chanderi silk": "/images/catalog/madhya-pradesh/chanderi-silk.jpg",
+      "Dhokra metal figurine": "/images/catalog/madhya-pradesh/dhokra-metal-figurine.jpg"
+    },
+    "Chhattisgarh": {
+      "Bastar iron craft": "/images/catalog/chhattisgarh/bastar-iron-craft.jpg",
+      "Wooden decor item": "/images/catalog/chhattisgarh/wooden-decor-item.jpg",
+      "Clay lamp": "/images/catalog/chhattisgarh/clay-lamp.jpg"
+    },
+    "Gujarat": {
+      "Bandhani textile": "/images/catalog/gujarat/bandhani-textile.jpg",
+      "Patola silk": "/images/catalog/gujarat/patola-silk.jpg",
+      "Mirror work decor": "/images/catalog/gujarat/mirror-work-decor.jpg"
+    },
+    "Goa": {
+      "Shell lamp": "/images/catalog/goa/shell-lamp.jpg",
+      "Coconut decor item": "/images/catalog/goa/coconut-decor-item.jpg",
+      "Ceramic plate": "/images/catalog/goa/ceramic-plate.jpg"
+    },
+    "Maharashtra": {
+      "Warli painting": "/images/catalog/maharashtra/warli-painting.jpg",
+      "Paithani silk": "/images/catalog/maharashtra/paithani-silk.jpg",
+      "Kolhapuri chappal": "/images/catalog/maharashtra/kolhapuri-chappal.jpg"
+    },
+    "Sikkim": {
+      "Thangka painting": "/images/catalog/sikkim/thangka-painting.jpg",
+      "Bamboo craft": "/images/catalog/sikkim/bamboo-craft.jpg",
+      "Handwoven carpet": "/images/catalog/sikkim/handwoven-carpet.png"
+    },
+    "Uttar Pradesh": {
+      "Banarasi silk": "/images/catalog/uttar-pradesh/banarasi-silk.jpg",
+      "Brass decor": "/images/catalog/uttar-pradesh/brass-decor.png",
+      "Chikankari fabric": "/images/catalog/uttar-pradesh/chikankari-fabric.png"
+    },
+    "Uttarakhand": {
+      "Wool shawl": "/images/catalog/uttarakhand/wool-shawl.jpg",
+      "Wooden carving": "/images/catalog/uttarakhand/wooden-carving.jpg",
+      "Ceramic lamp": "/images/catalog/uttarakhand/ceramic-lamp.jpg"
+    }
+  },
+  "workshops": {
+    "Jammu & Kashmir": {},
+    "Himachal Pradesh": {},
+    "Punjab": {},
+    "Rajasthan": {},
+    "Delhi": {
+      "Zardozi embroidery": "/images/catalog/delhi/workshop-zardozi-embroidery.jpg",
+      "Ceramic painting": "/images/catalog/delhi/workshop-ceramic-painting.jpg"
+    },
+    "Haryana": {
+      "Rug weaving": "/images/catalog/haryana/workshop-rug-weaving.jpg"
+    },
+    "Arunachal Pradesh": {
+      "Wood carving": "/images/catalog/arunachal-pradesh/workshop-wood-carving.jpg"
+    },
+    "Assam": {
+      "Silk weaving": "/images/catalog/assam/workshop-silk-weaving.jpg",
+      "Bamboo craft": "/images/catalog/assam/workshop-bamboo-craft.jpg"
+    },
+    "Manipur": {
+      "Handloom weaving": "/images/catalog/manipur/workshop-handloom-weaving.jpg",
+      "Ceramic craft": "/images/catalog/manipur/workshop-ceramic-craft.jpg"
+    },
+    "Meghalaya": {
+      "Wood carving": "/images/catalog/meghalaya/workshop-wood-carving.jpg"
+    },
+    "Mizoram": {
+      "Bamboo crafting": "/images/catalog/mizoram/workshop-bamboo-crafting.jpg",
+      "Textile weaving": "/images/catalog/mizoram/workshop-textile-weaving.jpg"
+    },
+    "Nagaland": {
+      "Jewelry making": "/images/catalog/nagaland/workshop-jewelry-making.jpg",
+      "Wood carving": "/images/catalog/nagaland/workshop-wood-carving.jpg"
+    },
+    "Tripura": {
+      "Bamboo weaving": "/images/catalog/tripura/workshop-bamboo-weaving.jpg",
+      "Cane furniture craft": "/images/catalog/tripura/workshop-cane-furniture-craft.jpg"
+    },
+    "West Bengal": {
+      "Kantha embroidery": "/images/catalog/west-bengal/workshop-kantha-embroidery.jpg"
+    },
+    "Odisha": {
+      "Scroll painting": "/images/catalog/odisha/workshop-scroll-painting.jpg"
+    },
+    "Bihar": {
+      "Madhubani painting": "/images/catalog/bihar/workshop-madhubani-painting.png",
+      "Basket weaving": "/images/catalog/bihar/workshop-basket-weaving.jpg"
+    },
+    "Jharkhand": {
+      "Tribal painting": "/images/catalog/jharkhand/workshop-tribal-painting.jpg",
+      "Bamboo craft": "/images/catalog/jharkhand/workshop-bamboo-craft.png"
+    },
+    "Kerala": {},
+    "Tamil Nadu": {
+      "Tanjore painting": "/images/catalog/tamil-nadu/workshop-tanjore-painting.jpg",
+      "Bronze casting": "/images/catalog/tamil-nadu/workshop-bronze-casting.jpg"
+    },
+    "Karnataka": {
+      "Sandalwood carving": "/images/catalog/karnataka/workshop-sandalwood-carving.jpg",
+      "Metal inlay craft": "/images/catalog/karnataka/workshop-metal-inlay-craft.jpg"
+    },
+    "Andhra Pradesh": {
+      "Kalamkari painting": "/images/catalog/andhra-pradesh/workshop-kalamkari-painting.jpg",
+      "Wooden toy making": "/images/catalog/andhra-pradesh/workshop-wooden-toy-making.jpg"
+    },
+    "Telangana": {
+      "Ikat weaving": "/images/catalog/telangana/workshop-ikat-weaving.jpg",
+      "Scroll painting": "/images/catalog/telangana/workshop-scroll-painting.jpg"
+    },
+    "Madhya Pradesh": {
+      "Gond painting": "/images/catalog/madhya-pradesh/workshop-gond-painting.jpg",
+      "Metal casting": "/images/catalog/madhya-pradesh/workshop-metal-casting.jpg"
+    },
+    "Chhattisgarh": {
+      "Iron craft forging": "/images/catalog/chhattisgarh/workshop-iron-craft-forging.jpg",
+      "Wood carving": "/images/catalog/chhattisgarh/workshop-wood-carving.jpg"
+    },
+    "Gujarat": {},
+    "Goa": {
+      "Shell craft": "/images/catalog/goa/workshop-shell-craft.jpg",
+      "Ceramic painting": "/images/catalog/goa/workshop-ceramic-painting.png"
+    },
+    "Maharashtra": {
+      "Warli painting": "/images/catalog/maharashtra/workshop-warli-painting.jpg",
+      "Leather craft": "/images/catalog/maharashtra/workshop-leather-craft.jpg"
+    },
+    "Sikkim": {
+      "Thangka painting": "/images/catalog/sikkim/workshop-thangka-painting.jpg",
+      "Carpet weaving": "/images/catalog/sikkim/workshop-carpet-weaving.jpg"
+    },
+    "Uttar Pradesh": {
+      "Silk weaving": "/images/catalog/uttar-pradesh/workshop-silk-weaving.jpg",
+      "Embroidery craft": "/images/catalog/uttar-pradesh/workshop-embroidery-craft.jpg"
+    },
+    "Uttarakhand": {
+      "Wool weaving": "/images/catalog/uttarakhand/workshop-wool-weaving.jpg",
+      "Wood carving": "/images/catalog/uttarakhand/workshop-wood-carving.jpg"
+    }
+  },
+  "missing_products": [
+    {
+      "state": "Himachal Pradesh",
+      "name": "Wooden wall decor",
+      "folder": null,
+      "reason": "no image file"
+    }
+  ],
+  "missing_workshops": [
+    {
+      "state": "Jammu & Kashmir",
+      "title": "Pashmina weaving basics",
+      "folder": "workshop",
+      "reason": "no image file"
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "title": "Wood carving decor craft",
+      "folder": "workshop",
+      "reason": "no image file"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "title": "Wool weaving",
+      "folder": "workshop",
+      "reason": "no image file"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "title": "Rug weaving",
+      "folder": "workshop",
+      "reason": "no image file"
+    },
+    {
+      "state": "Punjab",
+      "title": "Phulkari embroidery",
+      "folder": null,
+      "reason": "no image file"
+    },
+    {
+      "state": "Punjab",
+      "title": "Jutti making",
+      "folder": null,
+      "reason": "no image file"
+    },
+    {
+      "state": "Rajasthan",
+      "title": "Blue pottery crafting",
+      "folder": "workshop",
+      "reason": "no image file"
+    },
+    {
+      "state": "Rajasthan",
+      "title": "Bandhani dyeing",
+      "folder": "workshop",
+      "reason": "no image file"
+    },
+    {
+      "state": "Haryana",
+      "title": "Pottery making",
+      "folder": "Workshops_Pottery_making",
+      "reason": "no image file"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "title": "Bamboo weaving",
+      "folder": "Workshops_Bamboo_weaving",
+      "reason": "no image file"
+    },
+    {
+      "state": "Meghalaya",
+      "title": "Cane weaving",
+      "folder": "Workshops_Cane_weaving",
+      "reason": "no image file"
+    },
+    {
+      "state": "West Bengal",
+      "title": "Terracotta molding",
+      "folder": "Workshops_Terracotta_molding",
+      "reason": "no image file"
+    },
+    {
+      "state": "Odisha",
+      "title": "Filigree jewelry making",
+      "folder": "Workshops_Filigree_jewelry_making",
+      "reason": "no image file"
+    },
+    {
+      "state": "Kerala",
+      "title": "Coconut lamp making",
+      "folder": "Workshops_Coconut_lamp_making",
+      "reason": "no image file"
+    },
+    {
+      "state": "Kerala",
+      "title": "Coir weaving",
+      "folder": "Workshops_Coir_weaving",
+      "reason": "no image file"
+    },
+    {
+      "state": "Gujarat",
+      "title": "Bandhani dyeing",
+      "folder": "Workshops_Bandhani_dyeing",
+      "reason": "no image file"
+    },
+    {
+      "state": "Gujarat",
+      "title": "Mirror embroidery",
+      "folder": "Workshops_Mirror_embroidery",
+      "reason": "no image file"
+    }
+  ]
+}
